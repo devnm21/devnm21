@@ -1,5 +1,5 @@
 ### Hi there 👋
-Find my old profile here: https://github.com/devnm21-zz
+Find my old (and lost 😢) profile here: https://github.com/devnm21-zz
 <!--
 **devnm21/devnm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
